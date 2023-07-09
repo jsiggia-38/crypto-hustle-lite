@@ -1,0 +1,11 @@
+body {
+    background-color: grey;
+}
+
+.whole-page {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
